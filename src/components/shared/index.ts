@@ -1,3 +1,4 @@
+export { CountButton } from "./count-button";
 export { Filters } from "./filters";
 export { Categories } from "./categories";
 export { Title } from "./title";
@@ -6,4 +7,3 @@ export { Header } from "./header";
 export { SortPopup } from "./sort-popup";
 export { TopBar } from "./top-bar";
 export { FilterCheckbox } from "./filter-checkbox";
-export { RangeSlider } from "./RangeSlider";
